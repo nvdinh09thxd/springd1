@@ -1,4 +1,4 @@
-package com.springmvc.controllers;
+package edu.vinaenter.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

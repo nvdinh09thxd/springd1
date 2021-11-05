@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>springd1</title>
 </head>
 <body>
-	<p>Hello ${msg}</p>
+	<h3>Hello ${msg}</h3>
 </body>
 </html>
